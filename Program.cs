@@ -21,7 +21,8 @@ class ArrayExample
     static void SendMessage(string name, int msg)
     {
         //Escribe en la consola de visual studio un saludo, el nombre en el cual de escribe
-        //letra a letra dependiendo del bucle y las vueltas que da, para terminar escribe un sms
+        //letra a
+        //letra dependiendo del bucle y las vueltas que da, para terminar escribe un sms
         Console.WriteLine("Hello, " + name + "! Count to " + msg);
     }
 }
